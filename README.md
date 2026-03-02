@@ -34,8 +34,8 @@ BiocManager::install(c("ASCAT", "GenomicRanges", "IRanges"))
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/evitjohn/ASCATShinyApp.git
+cd ASCATShinyApp
 ```
 
 2. Ensure you have the required R packages installed (see Requirements above)
@@ -91,14 +91,6 @@ Results including purity, ploidy, and goodness-of-fit are displayed in the statu
 - Maximum upload file size: 100 MB
 - Temporary files are created in the system temp directory during analysis
 - If automatic rho/psi optimization fails, try enabling manual selection
-
-## License
-
-[Add your license here]
-
-## Author
-
-[Add your name/info here]
 
 ## Acknowledgments
 
